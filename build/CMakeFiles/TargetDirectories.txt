@@ -1,0 +1,3 @@
+/home/green/client-server/build/CMakeFiles/myserver.dir
+/home/green/client-server/build/CMakeFiles/edit_cache.dir
+/home/green/client-server/build/CMakeFiles/rebuild_cache.dir
